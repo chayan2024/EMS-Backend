@@ -2,7 +2,6 @@ package org.example.emsbackend.controller;
 
 import lombok.AllArgsConstructor;
 import org.example.emsbackend.dto.EmployeeDto;
-import org.example.emsbackend.entity.Employee;
 import org.example.emsbackend.service.EmployeeService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
